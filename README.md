@@ -28,4 +28,13 @@ To serve as a hub for the Raton Pass Toll Road project documentation. This repos
 
 ---
 
+### Proposed Alternate Route – The Canyon Bypass
+
+An alternative to the direct Raton Pass ascent has been surveyed that routes through a nearby canyon system. This proposal—designated **The Canyon Bypass**—offers trade-offs that must be weighed against the primary route.
+
+- **Pros** – significantly less blasting; softer sedimentary rock; avoids steepest grades
+- **Cons** – approximately 8 miles longer; flash-flood risk
+
+---
+
 *This charter establishes the foundational scope, challenges, and resource framework for the Raton Pass Toll Road project.*
